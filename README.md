@@ -54,7 +54,7 @@ Requires **Python 3.9+** (tested on 3.12). tkinter ships with Python on Windows 
 on Linux install it with `sudo apt install python3-tk`.
 
 ```bash
-git clone https://github.com/<your-username>/study-focus-buddy.git
+git clone https://github.com/Lazarusli0210/study-focus-buddy.git
 cd study-focus-buddy
 pip install -r requirements.txt
 # or: pip install plyer psutil matplotlib
